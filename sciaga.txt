@@ -1,0 +1,11 @@
+ls - wyswietlanie plików w folderze
+clear - czyszczenie ekranu
+cd .. - cofanie sie do tylu o 1
+cd ~ - powrót do folderu głównego
+mcedit nazwa_pliku.txt - edycja nazwa_pliku.txt
+mkdir nazwa_folderu - tworzenie folderu nazwa_folderu
+rm nazwa_pliku.txt - usuwanie nazwa_pliku.txt
+rm nazwa_folderu -r - usuwanie nazwa_folderu
+chmod +x skrypt.sh - dodawanie uprawnien do skrypt.sh
+./program - odpalanie programu
+./skrypt.sh - odpalanie skryptu
