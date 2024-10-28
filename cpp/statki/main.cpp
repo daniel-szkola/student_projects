@@ -5,6 +5,8 @@ using namespace std;
 int main() {
     
 
+srand (time(NULL));
+
     int board[3][3] = {{0, 0, 0}, {0, 0, 0}, {0, 0, 0}};
     int ship_num_total;
     int ship_num;
