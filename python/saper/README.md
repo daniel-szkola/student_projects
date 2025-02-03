@@ -2,7 +2,7 @@
 
 ### 1. Rozmiar planszy
 - **Rozmiar:** 3x3
-- **Ilość Bomb: **2
+- **Ilość Bomb:** 2
 
 ## Start: 
 Po starcie program losowo wypełnia planszę 2 bombami:
